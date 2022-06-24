@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Fonts/Main.spritefont</SourceFile>
+  <SourceTime>2019-03-02T10:22:41+05:00</SourceTime>
+  <DestFile>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/bin/Windows/Content/Fonts/Main.xnb</DestFile>
+  <DestTime>2020-05-24T14:45:27.8415937+05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T21:35:54+05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T21:35:54+05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Color</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

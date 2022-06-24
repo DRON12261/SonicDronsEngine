@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Fonts/Main.spritefont</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/OST/TestZoneOST.ogg</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/chr001.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/chr002.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/chr003.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/chr004.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/chr005.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/chr006.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/chr007.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/chr008.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/chr009.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/chr010.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/chr011.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/elbow.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/largeramp.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/smallramp.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/stunnel.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/TestMap.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/testtilesetteaser.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/testtilesetteasertwo.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/testtilesettube.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/testtilesettunneldone.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/tiles_8x8_blue.bmp</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/tiles_8x8_gray.bmp</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/tiles_8x8_green.bmp</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/tiles_8x8_purple.bmp</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Levels/TestMap/tiles_8x8_red.bmp</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/AirWalk.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/Balance1.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/Balance2.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/Bored1.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/Bored2.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/Dash.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/Die.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/DropDash.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/Drown.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/Fan.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/Hang.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/HangMove.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/Hurt.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/Idle.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/Jog.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/Jump.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/LookDown.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/LookDownEnd.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/LookUp.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/LookUpEnd.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/LookUpStart.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/Peelout.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/Push.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/QuttaHere.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/Run.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/Skid.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/SkidTurn.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/Spindash.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/SpringCS.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/SpringDiagonal.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/SpringTwirl.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/StandCS.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/Victory.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Sprites/Player/Sonic/Walk.png</File>
+    <File>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Video/Intro.wmv</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

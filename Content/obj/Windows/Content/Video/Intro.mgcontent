@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/Video/Intro.wmv</SourceFile>
+  <SourceTime>2019-03-01T00:41:59+05:00</SourceTime>
+  <DestFile>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/bin/Windows/Content/Video/Intro.xnb</DestFile>
+  <DestTime>2020-05-24T14:45:33.4353437+05:00</DestTime>
+  <Importer>WmvImporter</Importer>
+  <ImporterTime>2018-12-08T21:35:54+05:00</ImporterTime>
+  <Processor>VideoProcessor</Processor>
+  <ProcessorTime>2018-12-08T21:35:54+05:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>G:/DRON/source/repos/SonicDronsEngine/SonicDronsEngine/Content/bin/Windows/Content/Video/Intro.wmv</string>
+  </BuildOutput>
+</PipelineBuildEvent>
