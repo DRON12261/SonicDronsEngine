@@ -4,7 +4,7 @@
 Есть небольшой билд с очень маленькой тестовой локацией. Реализован класс игрока, есть прыжки, обработка колизии(кривоватая), набор анимаций каждое под свое действие.
 
 ## Видео с геймплеем
-[![Геймплей](https://i.ibb.co/CW9Rrbs/image.png)](https://youtu.be/gw_rg6lnW0A)
+[![Геймплей](https://img.youtube.com/vi/gw_rg6lnW0A/2.jpg)](https://youtu.be/gw_rg6lnW0A)
 
 ## Скриншоты
 ![Скрин1](https://i.ibb.co/CW9Rrbs/image.png)
